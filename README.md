@@ -1,10 +1,13 @@
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-Bootcamp de Inteligência Artificial - LAMIA
-Este repositório contém os materiais do Bootcamp de IA do Laboratório LAMIA. Aqui você encontra notebooks, datasets e projetos práticos para aprender e aplicar técnicas de Inteligência Artificial.
+# 🌟 Bootcamp de Inteligência Artificial - LAMIA 🌟
 
-📚 Conteúdo
-Introdução à IA e fundamentos matemáticos
-Aprendizado de Máquina e Aprendizado Profundo
-Processamento de Linguagem Natural (PNL)
-Visão Computacional
-Projetos práticos
+Bem-vindo ao repositório do **Bootcamp de Inteligência Artificial** organizado pelo **Laboratório LAMIA**! Aqui você encontrará tudo o que precisa para aprender e aplicar conceitos de IA de forma prática e inovadora. 🚀  
+
+---
+
+## 📂 **Conteúdo do Bootcamp**
+- 📌 **Fundamentos de IA**: Matemática e lógica por trás da inteligência artificial.
+- 🤖 **Machine Learning**: Modelos preditivos e análise de dados.
+- 🧠 **Deep Learning**: Redes neurais e aplicações avançadas.
+- 📝 **NLP (Processamento de Linguagem Natural)**: Análise de textos e chatbots.
+- 👁️ **Visão Computacional**: Reconhecimento de imagens e vídeos.
+- 🛠️ **Projetos Práticos**: Aplicações do mundo real.
