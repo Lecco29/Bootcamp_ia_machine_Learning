@@ -1,6 +1,6 @@
 # 🌟 Bootcamp de Inteligência Artificial - LAMIA 🌟
 
-Bem-vindo ao repositório do **Bootcamp de Inteligência Artificial** organizado pelo **Laboratório LAMIA**! Aqui você encontrará tudo o que precisa para aprender e aplicar conceitos de IA de forma prática e inovadora. 🚀  
+Bootcamp específico para inteligência artificial, oferecido pela LAMIA.. 🚀  
 
 ---
 
